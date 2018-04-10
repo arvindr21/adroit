@@ -3926,9 +3926,9 @@ handlebars-helper-repeat@^1.0.0:
     is-number "^3.0.0"
     mixin-deep "^1.1.3"
 
-"handlebars-helpers@git+https://github.com/assemble/handlebars-helpers#v0.6.0":
+handlebars-helpers@assemble/handlebars-helpers#v0.6.0:
   version "0.6.0"
-  resolved "git+https://github.com/assemble/handlebars-helpers#a885c22d93fc494bb72c1d9a96e64ab24c23bbe7"
+  resolved "https://codeload.github.com/assemble/handlebars-helpers/tar.gz/a885c22d93fc494bb72c1d9a96e64ab24c23bbe7"
   dependencies:
     any "^0.1.2"
     arr-filter "^1.1.0"
