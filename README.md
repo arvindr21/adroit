@@ -1,4 +1,4 @@
-# README
+# adroit
 
 ## What is this repository for?
 
@@ -9,13 +9,25 @@ Code repo for **Adroit Framework**
 * Node v8.3.0 + 
 * NPM v5.6.0 + 
 
+## Setup
+
+```sh
+$ npm install 
+```
+
+or 
+
+```sh
+$ yarn install 
+```
+
 ### Technologies
 
 The client side application is comprised of the following technologies:
 
 #### For generating Static Markup - AEM Components on Server Side
 
-* [Handlebars](http://assemble.io/)
+* [Handlebars](https://handlebarsjs.com/)
 * [Assemble](http://assemble.io/)
 
 
@@ -24,6 +36,7 @@ The client side application is comprised of the following technologies:
 * [Babel](https://babeljs.io/)
 * [Webpack](https://webpack.js.org/)
 * [NPM](https://www.npmjs.com/)
+* [Yarn](https://yarnpkg.com/en/) _Optional_
 
 ### Developer Tools
 
