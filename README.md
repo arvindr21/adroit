@@ -9,18 +9,6 @@ Code repo for **Adroit Framework**
 * Node v8.3.0 + 
 * NPM v5.6.0 + 
 
-## Setup
-
-```sh
-$ npm install 
-```
-
-or 
-
-```sh
-$ yarn install 
-```
-
 ### Technologies
 
 The client side application is comprised of the following technologies:
@@ -36,7 +24,7 @@ The client side application is comprised of the following technologies:
 * [Babel](https://babeljs.io/)
 * [Webpack](https://webpack.js.org/)
 * [NPM](https://www.npmjs.com/)
-* [Yarn](https://yarnpkg.com/en/) _Optional_
+* [Yarn](https://yarnpkg.com/en/) (_Optional_)
 
 ### Developer Tools
 
@@ -70,6 +58,11 @@ Visual Studio Code is a free code editor redefined and optimized for building an
 ```bash
 $ npm install
 ```
+or 
+
+```sh
+$ yarn install 
+```
 
 * Go to the root folder and then to generators folder (where package.json is available) and run the following command:s
 
@@ -81,6 +74,11 @@ $ npm install
 
 ```bash
 $ npm start
+```
+or 
+
+```sh
+$ yarn start 
 ```
 
 #### Create FE Components
